@@ -11,13 +11,13 @@ export default {
   name: 'app',
   components: {
     Header
-  }
+  },
 
-//   mounted(){
+  mounted(){
 //     if (process.env.NODE_ENV === 'development') {
 //     this.$devtools.connect("http://localhost:8080/", null)
 // }
-  // }
+  }
 }
 </script>
 
